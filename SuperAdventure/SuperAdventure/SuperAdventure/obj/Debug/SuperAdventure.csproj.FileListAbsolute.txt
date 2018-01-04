@@ -1,0 +1,12 @@
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+D:\Projects\GitHubRepos\rpg\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
